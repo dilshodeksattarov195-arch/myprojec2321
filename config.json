@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcave",
+        "uuid": 7851943,
+        "checksum": "qeuc2dn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
